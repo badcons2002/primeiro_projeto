@@ -1,0 +1,5 @@
+dia = input('em que data vc nasceu')
+mês = input('em que mes')
+ano = input('o ano de nascimento')
+nome= input('qual o seu nome')
+print('parabéns'+ nome, 'você nasceu em '+ dia, mês, ano,'obrigado')
